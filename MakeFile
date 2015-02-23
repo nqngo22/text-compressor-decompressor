@@ -1,0 +1,2 @@
+main: main.cpp minheap.cpp
+	g++ -o a main.cpp minheap.cpp -I. 
